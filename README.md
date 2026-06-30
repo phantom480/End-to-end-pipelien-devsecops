@@ -246,21 +246,7 @@ Build Now
 
 ---
 
-# 📷 Screenshots
 
-Add screenshots for:
-
-- Jenkins Pipeline
-- SonarQube Dashboard
-- OWASP Report
-- Trivy Scan Report
-- Docker Hub Repository
-- Kubernetes Pods
-- Prometheus Targets
-- Grafana Dashboard
-- Running Application
-
----
 
 # 🎯 Future Enhancements
 
